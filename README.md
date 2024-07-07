@@ -4,7 +4,7 @@
 
 ## Update MCU:
 
--`make menuconfig KCONFIG_CONFIG=config.mcu` (make menuconfig using the main controller presets)
+-`make menuconfig KCONFIG_CONFIG=config.mcu` (make menuconfig using the main controller presets, only need to be done the first time)
 
 -`make clean`
 
