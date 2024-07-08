@@ -16,6 +16,8 @@
 
 -`python3 ~/katapult/scripts/flashtool.py -f ~/klipper/out/klipper.bin -d /dev/serial/by-id/usb_katapult_stm32h723xx_1A0008001751313338343730-if00` (flash over USB)
 
+alternative:
+-`make flash FLASH_DEVICE=/dev/serial/usb_katapult_stm32h723xx_1A0008001751313338343730-if00`
 
 ## Update toolhead:
 
