@@ -23,7 +23,7 @@ alternative:
 
 -`make menuconfig KCONFIG_CONFIG=config.toolhead` (make menuconfig using the toolhead presets)
 
--`make clean`
+-`make clean KCONFIG_CONFIG=config.toolhead`
 
 -`make KCONFIG_CONFIG=config.toolhead` (make config using config.toolhead presets)
 
