@@ -4,7 +4,7 @@
 
 ## Update MCU:
 
--`make menuconfig KCONFIG_CONFIG=config.mcu` (make menuconfig using the main controller presets, only need to be done the first time)
+- first flashing: `make menuconfig KCONFIG_CONFIG=config.mcu` (make menuconfig using the main controller presets, only need to be done the first time)
 
 -`make clean KCONFIG_CONFIG=config.mcu`
 
@@ -21,7 +21,7 @@ alternative:
 
 ## Update toolhead:
 
--`make menuconfig KCONFIG_CONFIG=config.toolhead` (make menuconfig using the toolhead presets)
+-first flashing: `make menuconfig KCONFIG_CONFIG=config.toolhead` (make menuconfig using the toolhead presets)
 
 -`make clean KCONFIG_CONFIG=config.toolhead`
 
