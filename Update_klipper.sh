@@ -25,7 +25,7 @@ sleep 1
 
 #Flash new firmware over USB
 echo 'Flashing controller board'
-make flash KCONFIG_CONFIG=config.mcu FLASH_DEVICE=/dev/serial/by-id/usb-katapult_stm32h723xx_1A0008001751313338343730-if0000
+make flash KCONFIG_CONFIG=config.mcu FLASH_DEVICE=/dev/serial/by-id/usb-katapult_stm32h723xx_1A0008001751313338343730-if00
 sleep 1
 
 #Updating the toolhead board
