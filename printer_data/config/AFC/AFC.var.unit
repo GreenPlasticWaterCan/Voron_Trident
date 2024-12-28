@@ -32,7 +32,7 @@
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "hub_loaded": false,
             "status": ""
         },
@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "map": "T3",
             "index": 4,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "hub_loaded": false,
             "status": ""
         }
