@@ -34,7 +34,7 @@
             "index": 3,
             "tool_loaded": false,
             "hub_loaded": false,
-            "status": ""
+            "status": "ejecting"
         },
         "leg4": {
             "spool_id": "",
