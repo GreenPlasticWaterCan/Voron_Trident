@@ -45,7 +45,7 @@
             "map": "T3",
             "index": 4,
             "tool_loaded": false,
-            "hub_loaded": true,
+            "hub_loaded": false,
             "status": "ejecting"
         }
     }
