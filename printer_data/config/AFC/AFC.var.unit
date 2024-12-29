@@ -22,7 +22,7 @@
             "index": 2,
             "tool_loaded": true,
             "hub_loaded": true,
-            "status": "Tooled"
+            "status": "unloading"
         },
         "leg3": {
             "spool_id": "",
