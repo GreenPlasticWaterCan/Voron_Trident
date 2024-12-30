@@ -8,7 +8,7 @@
             "runout_lane": "NONE",
             "map": "T0",
             "index": 1,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "hub_loaded": true,
             "status": "unloading"
         },
