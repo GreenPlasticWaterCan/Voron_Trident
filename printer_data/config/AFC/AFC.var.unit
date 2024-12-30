@@ -34,7 +34,7 @@
             "index": 3,
             "tool_loaded": false,
             "hub_loaded": true,
-            "status": "loading"
+            "status": "Tooled"
         },
         "leg4": {
             "spool_id": "",
