@@ -21,7 +21,7 @@
             "map": "T1",
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": true,
+            "hub_loaded": false,
             "status": "ejecting"
         },
         "leg3": {
